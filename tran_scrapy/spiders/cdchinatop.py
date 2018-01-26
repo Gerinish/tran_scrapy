@@ -18,11 +18,22 @@ class CdchinatopSpider(scrapy.Spider):
         cd_soup = BeautifulSoup(cd_f, 'lxml')
         text_all = cd_soup.find("h1").string + '\n'
         for child in cd_soup.body.find("div", {'id': "Content"}).find_all("p"):
-            text_all += child.string + '\n'
+            text_all = self.findText(text_all,child)
         if cd_soup.find('div',{"id":"Content"}).parent.get('class') == 'picshow' :      #图集式新闻的爬取无法做到
             url = cd_soup.find('div',{"class":"picshow"}).a.get('href')
             yield scrapy.Request(url,callback=self.parseAgain)
         with open('cdchinatop.txt', 'w',encoding='utf-8',errors='ignore') as f:
             f.write(text_all)
         self.log('Saved file cdchinatop.')
-        pass
+
+    def findText(self,in_txt,in_soup):
+        try:
+            in_txt += '\n' + in_soup
+        except:
+            for x in in_soup.descendants:
+                try:
+                    in_txt += x
+                except:
+                    continue
+            in_txt += '\n'
+        return in_txt

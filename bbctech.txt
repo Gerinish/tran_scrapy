@@ -1,16 +1,18 @@
-Facebook invents new unit of time called a flick - BBC News
-A Facebook engineer has invented a new unit of time called a flick.
-The flick has been designed to help developers keep video effects in sync, according to a description on the code-sharing site GitHub.
-A flick, derived from "frame-tick", is 1/705,600,000 of a second - the next unit of time after a nanosecond.  
-A researcher at Oxford University said the flick wouldn't have much general impact but may help create better virtual reality experiences. 
-Flicks are defined in the programming language C++, which is used to generate visual effects for film, television and other media. 
-Flicks give programmers a way to measure the time between media frames without using fractions. 
-Matt Hammond, lead research engineer at BBC Research and Development, said this can reduce errors such as stutters in graphics.
-"When the numbers used are not integers, errors can gradually creep into computer calculations. These errors can build up over time, eventually causing inaccuracies that become noticeable," he said. 
-Flick's creator, Christopher Horvath, publicly shared his idea on Facebook in early 2017, according to the GitHub description.  He then made modifications to the new measurement based on feedback from comments.
-The Oxford University researcher, who asked not to be identified, said that flicks may help virtual reality developers deal with latency, or delay. 
-"Very often in academic literature, you have this notion of presence and immersion," he told the BBC.
-"Immersion is the engagement you feel with a computer game. Presence is the notion of your brain feeling that you are there.
-"Presence is very, very easy to break. I think perhaps a very fixed way of describing these time steps allows for developers to have a bit more flexibility in dealing with latency issues and making sure videos stay in sync."
-A flick is not the first unit of time designed by a major corporation. Swatch introduced Internet Time in 1998, which divides the day into 1,000 ".beats". 
-The measurement - equal to one minute and 26.4 seconds - was designed to eliminate the need for time zones. It has not caught on globally. 
+Lyft investigates privacy abuse claim - BBC News
+Ride-sharing company Lyft, seen as Uber's biggest rival, is investigating an anonymous claim that employees were abusing customer's private data.
+The allegations, posted online, suggested that employees looked at trip data of former romantic partners, or tracked famous users such as Facebook founder Mark Zuckerberg.
+Lyft said it was investigating but said it had not received any specific complaints.
+The story was first reported by technology news site The Information.
+It reported that a person claiming to have worked for Lyft used anonymous app Blind to post the allegations. There is no verification process for posting on Blind, leaving wide open the possibility that the complaint, and its supposed source, is bogus.
+Regardless, Lyft said it would look into the claims which suggested employees could "check to see if their significant other actually went where they said, and stalk attractive people they've met".
+
+'Trust of passengers'
+In a statement, Lyft defended its data security measures.
+"Maintaining the trust of passengers and drivers is fundamental to Lyft," spokeswoman Alexandra LaManna said in an email.
+"The specific allegations in this post would be a violation of Lyft's policies and a cause for termination, and have not been raised with our legal or executive teams."
+Controversy over the data collection of ride-sharing companies, and who within the firms can access it, has been under scrutiny before. 
+Uber will be subjected to privacy audits for the next 19 years after it was discovered its God View allowed Uber employees to track intricate details about customers' journeys. 
+Lyft's equivalent customer records system did not offer map-based, real-tin tracking of journeys, and access to the information within the company was limited, Lyft said.
+"Access to data is restricted to certain teams that need it to do their jobs. For those teams, each query is logged and attributed to a specific individual," the company said. 
+"We require employees to be trained in our data privacy practices and responsible use policy, which categorically prohibit accessing and using customer data for reasons other than those required by their specific role at the company.  
+"Employees are required to sign confidentiality and responsible use agreements that bar them from accessing, using, or disclosing customer data outside the confines of their job responsibilities," it added.

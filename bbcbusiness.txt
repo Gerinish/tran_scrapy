@@ -1,26 +1,31 @@
-Trump's choice Jerome Powell approved as Federal Reserve head - BBC News
-Donald Trump's choice for the next head of the US central bank - the world's most powerful economics job - has been approved by US senators.
-Jerome Powell, a multi-millionaire, was backed in a 84-13 vote as chair of the Federal Reserve with support from Republicans and many Democrats.
-Mr Powell, who was named as Mr Trump's nominee in November, is a Republican who is seen to back low interest rates.
-Janet Yellen, the current Fed chair, will see her term expire in February. 
-She was appointed by President Obama in 2014 and has been the first woman to hold the position. 
-Who is Jerome Powell? 
+China's decade-long smartphone growth comes to an end - BBC News
+China's smartphone market has fallen for the first time, with annual shipments down by 4% in 2017, according to data from research firm Canalys.
+The decline ends almost a decade's growth in the world's largest mobile phone market.
+Smartphone brands Huawei, Oppo and Vivo continue to dominate the Chinese handset market.
+Despite the overall slowdown of the market, Huawei saw double-digit growth, the Canalys report said.
 
-Safe choice for economy?
-The appointment marks the end of a decades-long tradition that has seen presidents stick with the Federal Reserve chair who was in charge when they took office. 
-Mr Powell has served on the Fed's board since 2012, and is expected to take over when Ms Yellen leaves her post on 3 February.
-Among the candidates President Trump was considering, Mr Powell, a 64-year-old lawyer, was seen as a safe choice who would provide continuity for existing US monetary policy, and not rattle markets. 
-He has been supportive of gradual interest rate rises and of the consensus that the Fed should slowly decrease the asset holdings it gathered as part of its efforts to battle the financial crisis.
+Changing times 
+Between 2010 to 2015, the global smartphone market was mostly a showdown between Apple and Samsung. 
+But over the last two years, smaller Chinese Android smartphone brands have risen, offering faster entry-level phones at much more affordable prices.
+While consumers in big Chinese cities like Beijing and Shanghai see the latest iPhone and Galaxy devices as "must-have" handsets, people in rural areas couldn't afford the hefty price tags and mostly stuck to basic feature phones.
+To offer these consumers a premium experience at a lower price, Oppo and Vivo - both owned by reclusive billionaire Duan Yong Ping - chose to eschew online and instead open retail stores on high streets in rural provinces.
+The approach of offering an Apple-esque in-store customer experience was successful. In 2016, China saw a huge boom in consumers swapping their basic phones for premium smartphones.
+According to Counterpoint Research, by August 2017 Huawei had sold almost as many smartphones as Apple. By the end of 2016, it had already dethroned Samsung from the top spot as most profitable Android device brand in the world. 
 
-Undue influence?
-Banking committee chairman Mike Crapo, a Republican, said Mr Powell would be "central to ensuring a safe and sound financial system while supporting a vibrant, growing economy".
-But Senator Elizabeth Warren, a Democrat, said the Fed chair needed to be someone who would stand up to Wall Street, adding that Mr Powell was not that person.
-There has also been some speculation that President Trump, who has businesses which could benefit from lower interest rates, will attempt to unduly influence Fed decisions.
-The Fed last raised interest rates in December by 0.25 basis points, which was the third rate rise in 2017. Mr Powell will now preside over further rate rise decisions, which may not fall in line with President Trump's interests.
-The Trump administration also wants to see some post-financial crisis regulations rolled back - a push from government that Mr Powell will also need to manage.
+Market saturation
+So why the decline? According to Mo Jia, research analyst at Canalys, now that consumers have traded up from basic phones to entry-level smartphones, they feel they don't need another one.
+People are saying that "the phones they have now are already good enough," Mr Jia told the BBC. "We say that it's gone from a 'change' market to a 'stop' market."
+Since even entry-level smartphones have an abundance of features, the life cycles of these devices are much longer than before, now up to 26.8 months, according to Canalys.
+The research firm does not see the Chinese smartphone market growing until 5G devices hit the scene in late 2019.
+And while the perceived "luxury" prestige of iPhones will prompt some consumers to want to trade up, Mr Jia points out that the latest smartphones from Chinese brands are almost equivalent in specs and hardware to Apple's handsets.
+"The phone makers are making much better phones. For example, if you look at the Huawei Mate 10 and the Mate 10 Pro, their specs are comparable to iPhone 8 and iPhone 8 Plus. But the Mate 10 is at least 30% cheaper than the iPhone 8," he said.
+Samsung's marketing disaster early last year over battery faults with the Galaxy Note 7 severely damaged its brand reputation in China.
+So, when people wanted a new Android device, they were much more likely to look to Huawei, Oppo and Vivo, Mr Jia added.
 
-Growth target
-Under Ms Yellen's stewardship, the US economy has seen its strongest six months of economic activity since 2014.
-The latest official figures released in December show that the world's largest economy grew at an annual rate of 3.2% in the third quarter of 2017. Growth in the previous quarter came in at 3.1%.
-At the time, current Fed chair Ms Yellen said the economy, labour market and financial system had grown stronger under her watch.
-President Trump's target for US economic growth has been 3%, but he has also spoken of his desire to see it expand at a rate as high as 6%. 
+Expanding abroad
+With the Chinese market looking pretty saturated for now, overseas expansion will be critical for Huawei, Oppo and Vivo in 2018. 
+"Oppo and Vivo are trying to expand into more countries like Russia and Japan, and they're trying to deepen their market in South East Asia," said Mr Jia.
+"Xiaomi is doing very well in India. They are the most popular brand there and are seeking to open more stores. They are also expanding into Thailand."
+Meanwhile, Huawei's focus is on "budget smartphones" - cheaper entry-level or mid-level devices.
+The Chinese tech giant has not had much success lately in the US, as talks to release the Mate 10 Pro on AT&T collapsed due to government security concerns.
+But Huawei is looking to continue growing in developing markets in South East Asia and Africa, while retaining and growing its existing popularity in Europe. 
