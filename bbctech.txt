@@ -1,18 +1,38 @@
-Lyft investigates privacy abuse claim - BBC News
-Ride-sharing company Lyft, seen as Uber's biggest rival, is investigating an anonymous claim that employees were abusing customer's private data.
-The allegations, posted online, suggested that employees looked at trip data of former romantic partners, or tracked famous users such as Facebook founder Mark Zuckerberg.
-Lyft said it was investigating but said it had not received any specific complaints.
-The story was first reported by technology news site The Information.
-It reported that a person claiming to have worked for Lyft used anonymous app Blind to post the allegations. There is no verification process for posting on Blind, leaving wide open the possibility that the complaint, and its supposed source, is bogus.
-Regardless, Lyft said it would look into the claims which suggested employees could "check to see if their significant other actually went where they said, and stalk attractive people they've met".
+Coincheck: World's biggest ever digital currency 'theft' - BBC News
+One of Japan's largest digital currency exchanges says it has lost some $534m (£380m) worth of virtual assets in a hacking attack on its network. 
+Coincheck froze deposits and withdrawals for all crypto-currencies except Bitcoin as it assessed its losses in NEM, a lesser-known currency.
+It may be unable to reimburse the funds lost on Friday, a representative told Japanese media.   
+If the theft is confirmed, it will be the largest involving digital currency.
+Another Tokyo exchange, MtGox, collapsed in 2014 after admitting that $400m had been stolen from its network.
+The stolen Coincheck assets were said to be kept in a "hot wallet" - a part of the exchange connected to the internet. That contrasts with a cold wallet, where funds are stored securely offline. 
+Coincheck says it has the digital address of where the assets were sent.
 
-'Trust of passengers'
-In a statement, Lyft defended its data security measures.
-"Maintaining the trust of passengers and drivers is fundamental to Lyft," spokeswoman Alexandra LaManna said in an email.
-"The specific allegations in this post would be a violation of Lyft's policies and a cause for termination, and have not been raised with our legal or executive teams."
-Controversy over the data collection of ride-sharing companies, and who within the firms can access it, has been under scrutiny before. 
-Uber will be subjected to privacy audits for the next 19 years after it was discovered its God View allowed Uber employees to track intricate details about customers' journeys. 
-Lyft's equivalent customer records system did not offer map-based, real-tin tracking of journeys, and access to the information within the company was limited, Lyft said.
-"Access to data is restricted to certain teams that need it to do their jobs. For those teams, each query is logged and attributed to a specific individual," the company said. 
-"We require employees to be trained in our data privacy practices and responsible use policy, which categorically prohibit accessing and using customer data for reasons other than those required by their specific role at the company.  
-"Employees are required to sign confidentiality and responsible use agreements that bar them from accessing, using, or disclosing customer data outside the confines of their job responsibilities," it added.
+What do we know about the hack?
+Hackers broke in at 02:57 on Friday (17:57 GMT Thursday), the company said in a statement, but the breach was not discovered until 11:25, nearly eight and a half hours later.  
+Company chief operating officer Yusuke Otsuka said 523m NEMs had been sent from Coincheck's NEM address during the breach.
+"It's worth 58bn yen based on the calculation at the rate when detected," he told reporters at the Tokyo Stock Exchange. 
+Coincheck was still examining how many customers had been affected and trying to establish whether the break-in had been launched from Japan or another country.
+"We know where the funds were sent," Mr Otsuka added. "We are tracing them and if we're able to continue tracking, it may be possible to recover them." 
+Coincheck reported the incident to the police and to Japan's Financial Services Agency.
+
+How damaging is the loss?
+NEM, the 10th-largest crypto-currency by market value, fell 11% over a 24-hour period to 87 cents, as of 18:30, Bloomberg news agency reports.
+Among the other crypto-currencies, Bitcoin dropped 3.4% and Ripple retreated 9.9% on Friday, according to prices seen by the agency.
+More was lost on Friday than in 2014, when MtGox lost what it thought was 850,000 bitcoins. However, MtGox later found 200.000 bitcoins in an old digital wallet.
+"In a worst-case scenario, we may not be able to return clients' assets," an unnamed Coincheck representative was quoted as saying on Saturday by Japan's Kyodo news agency.
+After the collapse of MtGox shook the digital currency world, a licensing system was introduced in Japan to increase oversight of local currency exchanges such as Coincheck.
+"What's the lasting impact? It's hard to tell," Marc Ostwald, global strategist at ADM Investor Services International in London, told Bloomberg.
+"Japan is one of the most pro-crypto trading countries, among the G-20. In Japan they don't really want a wholesale clampdown. So it will be interesting how Japanese regulators respond to this, if they indeed do."
+
+What is Coincheck?
+Founded in 2012, the company is based in Tokyo, where it employed 71 people as of August last year.
+Its headquarters are located in the city's Shibuya district, an area popular with start-ups that was also home to MtGox, Bloomberg reports.
+Last year, Coincheck began running adverts on national television featuring popular local comedian Tetsuro Degawa, the agency adds.
+Kunihiko Sato, a 30-year-old customer from Tokyo, told Kyodo he had deposited about 500,000 yen ($4,600), into his account with the exchange.
+"I never thought this kind of thing would happen with Japan's developed legislation," he said.
+
+How do crypto-currencies work?
+Whereas money is printed by governments or traditional banks, digital currencies are generated  through a complex process known as "mining". Transactions are then monitored by a network of computers across the world using a technology called blockchain.
+There are thousands of them, largely existing online, unlike the notes or coins in your pocket. 
+It may be more useful to think of them as assets, rather than digital cash. The vast majority of Bitcoin holders, for instance, appear to be investors. But the anonymity that crypto-currencies afford has also attracted criminals.
+The value of a crypto-currency is determined by how much people are willing to buy and sell them for.

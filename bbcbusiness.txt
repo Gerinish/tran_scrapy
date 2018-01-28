@@ -1,31 +1,38 @@
-China's decade-long smartphone growth comes to an end - BBC News
-China's smartphone market has fallen for the first time, with annual shipments down by 4% in 2017, according to data from research firm Canalys.
-The decline ends almost a decade's growth in the world's largest mobile phone market.
-Smartphone brands Huawei, Oppo and Vivo continue to dominate the Chinese handset market.
-Despite the overall slowdown of the market, Huawei saw double-digit growth, the Canalys report said.
+Coincheck: World's biggest ever digital currency 'theft' - BBC News
+One of Japan's largest digital currency exchanges says it has lost some $534m (£380m) worth of virtual assets in a hacking attack on its network. 
+Coincheck froze deposits and withdrawals for all crypto-currencies except Bitcoin as it assessed its losses in NEM, a lesser-known currency.
+It may be unable to reimburse the funds lost on Friday, a representative told Japanese media.   
+If the theft is confirmed, it will be the largest involving digital currency.
+Another Tokyo exchange, MtGox, collapsed in 2014 after admitting that $400m had been stolen from its network.
+The stolen Coincheck assets were said to be kept in a "hot wallet" - a part of the exchange connected to the internet. That contrasts with a cold wallet, where funds are stored securely offline. 
+Coincheck says it has the digital address of where the assets were sent.
 
-Changing times 
-Between 2010 to 2015, the global smartphone market was mostly a showdown between Apple and Samsung. 
-But over the last two years, smaller Chinese Android smartphone brands have risen, offering faster entry-level phones at much more affordable prices.
-While consumers in big Chinese cities like Beijing and Shanghai see the latest iPhone and Galaxy devices as "must-have" handsets, people in rural areas couldn't afford the hefty price tags and mostly stuck to basic feature phones.
-To offer these consumers a premium experience at a lower price, Oppo and Vivo - both owned by reclusive billionaire Duan Yong Ping - chose to eschew online and instead open retail stores on high streets in rural provinces.
-The approach of offering an Apple-esque in-store customer experience was successful. In 2016, China saw a huge boom in consumers swapping their basic phones for premium smartphones.
-According to Counterpoint Research, by August 2017 Huawei had sold almost as many smartphones as Apple. By the end of 2016, it had already dethroned Samsung from the top spot as most profitable Android device brand in the world. 
+What do we know about the hack?
+Hackers broke in at 02:57 on Friday (17:57 GMT Thursday), the company said in a statement, but the breach was not discovered until 11:25, nearly eight and a half hours later.  
+Company chief operating officer Yusuke Otsuka said 523m NEMs had been sent from Coincheck's NEM address during the breach.
+"It's worth 58bn yen based on the calculation at the rate when detected," he told reporters at the Tokyo Stock Exchange. 
+Coincheck was still examining how many customers had been affected and trying to establish whether the break-in had been launched from Japan or another country.
+"We know where the funds were sent," Mr Otsuka added. "We are tracing them and if we're able to continue tracking, it may be possible to recover them." 
+Coincheck reported the incident to the police and to Japan's Financial Services Agency.
 
-Market saturation
-So why the decline? According to Mo Jia, research analyst at Canalys, now that consumers have traded up from basic phones to entry-level smartphones, they feel they don't need another one.
-People are saying that "the phones they have now are already good enough," Mr Jia told the BBC. "We say that it's gone from a 'change' market to a 'stop' market."
-Since even entry-level smartphones have an abundance of features, the life cycles of these devices are much longer than before, now up to 26.8 months, according to Canalys.
-The research firm does not see the Chinese smartphone market growing until 5G devices hit the scene in late 2019.
-And while the perceived "luxury" prestige of iPhones will prompt some consumers to want to trade up, Mr Jia points out that the latest smartphones from Chinese brands are almost equivalent in specs and hardware to Apple's handsets.
-"The phone makers are making much better phones. For example, if you look at the Huawei Mate 10 and the Mate 10 Pro, their specs are comparable to iPhone 8 and iPhone 8 Plus. But the Mate 10 is at least 30% cheaper than the iPhone 8," he said.
-Samsung's marketing disaster early last year over battery faults with the Galaxy Note 7 severely damaged its brand reputation in China.
-So, when people wanted a new Android device, they were much more likely to look to Huawei, Oppo and Vivo, Mr Jia added.
+How damaging is the loss?
+NEM, the 10th-largest crypto-currency by market value, fell 11% over a 24-hour period to 87 cents, as of 18:30, Bloomberg news agency reports.
+Among the other crypto-currencies, Bitcoin dropped 3.4% and Ripple retreated 9.9% on Friday, according to prices seen by the agency.
+More was lost on Friday than in 2014, when MtGox lost what it thought was 850,000 bitcoins. However, MtGox later found 200.000 bitcoins in an old digital wallet.
+"In a worst-case scenario, we may not be able to return clients' assets," an unnamed Coincheck representative was quoted as saying on Saturday by Japan's Kyodo news agency.
+After the collapse of MtGox shook the digital currency world, a licensing system was introduced in Japan to increase oversight of local currency exchanges such as Coincheck.
+"What's the lasting impact? It's hard to tell," Marc Ostwald, global strategist at ADM Investor Services International in London, told Bloomberg.
+"Japan is one of the most pro-crypto trading countries, among the G-20. In Japan they don't really want a wholesale clampdown. So it will be interesting how Japanese regulators respond to this, if they indeed do."
 
-Expanding abroad
-With the Chinese market looking pretty saturated for now, overseas expansion will be critical for Huawei, Oppo and Vivo in 2018. 
-"Oppo and Vivo are trying to expand into more countries like Russia and Japan, and they're trying to deepen their market in South East Asia," said Mr Jia.
-"Xiaomi is doing very well in India. They are the most popular brand there and are seeking to open more stores. They are also expanding into Thailand."
-Meanwhile, Huawei's focus is on "budget smartphones" - cheaper entry-level or mid-level devices.
-The Chinese tech giant has not had much success lately in the US, as talks to release the Mate 10 Pro on AT&T collapsed due to government security concerns.
-But Huawei is looking to continue growing in developing markets in South East Asia and Africa, while retaining and growing its existing popularity in Europe. 
+What is Coincheck?
+Founded in 2012, the company is based in Tokyo, where it employed 71 people as of August last year.
+Its headquarters are located in the city's Shibuya district, an area popular with start-ups that was also home to MtGox, Bloomberg reports.
+Last year, Coincheck began running adverts on national television featuring popular local comedian Tetsuro Degawa, the agency adds.
+Kunihiko Sato, a 30-year-old customer from Tokyo, told Kyodo he had deposited about 500,000 yen ($4,600), into his account with the exchange.
+"I never thought this kind of thing would happen with Japan's developed legislation," he said.
+
+How do crypto-currencies work?
+Whereas money is printed by governments or traditional banks, digital currencies are generated  through a complex process known as "mining". Transactions are then monitored by a network of computers across the world using a technology called blockchain.
+There are thousands of them, largely existing online, unlike the notes or coins in your pocket. 
+It may be more useful to think of them as assets, rather than digital cash. The vast majority of Bitcoin holders, for instance, appear to be investors. But the anonymity that crypto-currencies afford has also attracted criminals.
+The value of a crypto-currency is determined by how much people are willing to buy and sell them for.

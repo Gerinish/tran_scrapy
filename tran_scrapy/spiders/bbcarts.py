@@ -19,10 +19,12 @@ class BbcartsSpider(scrapy.Spider):
         bbc_soup = BeautifulSoup(bbc_f, 'lxml')
         essay = bbc_soup.head.title.string + '\n'  # 标题
         for i in bbc_soup.body.find('div',{"class":"story-body__inner"}).p.previous_sibling.next_siblings:
-            if i.name != 'p':
+            if i.name not in ['p']:
                 if i.name in ['h1','h2']:
                     essay += '\n'
                     essay = self.findText(essay,i)
+                elif i.name in ['ul','li']:
+                    essay = self.findTextList(essay,i)
                 else:
                     continue
             elif i.name == 'hr':
@@ -47,5 +49,16 @@ class BbcartsSpider(scrapy.Spider):
                 except:
                     continue
             in_txt += '\n'
+        return in_txt
+
+    def findTextList(self, in_txt, in_soup):
+        try:
+            in_txt +=  in_soup
+        except:
+            for x in in_soup.descendants:
+                try:
+                    in_txt += x
+                except:
+                    continue
         return in_txt
 
