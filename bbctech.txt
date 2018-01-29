@@ -1,38 +1,27 @@
-Coincheck: World's biggest ever digital currency 'theft' - BBC News
-One of Japan's largest digital currency exchanges says it has lost some $534m (£380m) worth of virtual assets in a hacking attack on its network. 
-Coincheck froze deposits and withdrawals for all crypto-currencies except Bitcoin as it assessed its losses in NEM, a lesser-known currency.
-It may be unable to reimburse the funds lost on Friday, a representative told Japanese media.   
-If the theft is confirmed, it will be the largest involving digital currency.
-Another Tokyo exchange, MtGox, collapsed in 2014 after admitting that $400m had been stolen from its network.
-The stolen Coincheck assets were said to be kept in a "hot wallet" - a part of the exchange connected to the internet. That contrasts with a cold wallet, where funds are stored securely offline. 
-Coincheck says it has the digital address of where the assets were sent.
-
-What do we know about the hack?
-Hackers broke in at 02:57 on Friday (17:57 GMT Thursday), the company said in a statement, but the breach was not discovered until 11:25, nearly eight and a half hours later.  
-Company chief operating officer Yusuke Otsuka said 523m NEMs had been sent from Coincheck's NEM address during the breach.
-"It's worth 58bn yen based on the calculation at the rate when detected," he told reporters at the Tokyo Stock Exchange. 
-Coincheck was still examining how many customers had been affected and trying to establish whether the break-in had been launched from Japan or another country.
-"We know where the funds were sent," Mr Otsuka added. "We are tracing them and if we're able to continue tracking, it may be possible to recover them." 
-Coincheck reported the incident to the police and to Japan's Financial Services Agency.
-
-How damaging is the loss?
-NEM, the 10th-largest crypto-currency by market value, fell 11% over a 24-hour period to 87 cents, as of 18:30, Bloomberg news agency reports.
-Among the other crypto-currencies, Bitcoin dropped 3.4% and Ripple retreated 9.9% on Friday, according to prices seen by the agency.
-More was lost on Friday than in 2014, when MtGox lost what it thought was 850,000 bitcoins. However, MtGox later found 200.000 bitcoins in an old digital wallet.
-"In a worst-case scenario, we may not be able to return clients' assets," an unnamed Coincheck representative was quoted as saying on Saturday by Japan's Kyodo news agency.
-After the collapse of MtGox shook the digital currency world, a licensing system was introduced in Japan to increase oversight of local currency exchanges such as Coincheck.
-"What's the lasting impact? It's hard to tell," Marc Ostwald, global strategist at ADM Investor Services International in London, told Bloomberg.
-"Japan is one of the most pro-crypto trading countries, among the G-20. In Japan they don't really want a wholesale clampdown. So it will be interesting how Japanese regulators respond to this, if they indeed do."
-
-What is Coincheck?
-Founded in 2012, the company is based in Tokyo, where it employed 71 people as of August last year.
-Its headquarters are located in the city's Shibuya district, an area popular with start-ups that was also home to MtGox, Bloomberg reports.
-Last year, Coincheck began running adverts on national television featuring popular local comedian Tetsuro Degawa, the agency adds.
-Kunihiko Sato, a 30-year-old customer from Tokyo, told Kyodo he had deposited about 500,000 yen ($4,600), into his account with the exchange.
-"I never thought this kind of thing would happen with Japan's developed legislation," he said.
-
-How do crypto-currencies work?
-Whereas money is printed by governments or traditional banks, digital currencies are generated  through a complex process known as "mining". Transactions are then monitored by a network of computers across the world using a technology called blockchain.
-There are thousands of them, largely existing online, unlike the notes or coins in your pocket. 
-It may be more useful to think of them as assets, rather than digital cash. The vast majority of Bitcoin holders, for instance, appear to be investors. But the anonymity that crypto-currencies afford has also attracted criminals.
-The value of a crypto-currency is determined by how much people are willing to buy and sell them for.
+Fitness tracker Strava lights up military base - BBC News
+Military personnel around the world have been publicly sharing their exercise routes online - including those inside or near military bases.
+Online fitness tracker Strava has published a "heatmap" showing the paths its users log as they run or cycle.
+It appears to show the structure of foreign military bases in countries like Syria and Afghanistan, as soldiers move around inside.
+The US military is examining the heatmap, a spokesman said.
+Air Force Colonel John Thomas, a spokesman for US Central Command, told the Washington Post that the US military was reviewing the implications.
+Strava said it had excluded activities marked as private from the map.
+Users who record their exercise data on Strava have the option of making their movements public or private. Private data, the company said, has never been included.
+The appearance of military bases on the heatmap suggests that large numbers of military personnel across the globe have been publicly sharing their location data.
+The latest version of the map was released in November 2017, but the implications for service personnel were only raised over the weekend.
+Nathan Ruser, an Australian university student who first highlighted the issue, said he came across the map while browsing a cartography blog last week.
+"I just looked at it and thought, 'oh hell, this should not be here - this is not good,'" he told the BBC.
+The location of military bases is generally well-known, both from local knowledge and pre-existing satellite imaging tools like Google Earth. 
+Furthermore, concerns about Strava's heatmap are mainly centred around the fact that it displays the level of activity - shown as more intense light - and the movement of personnel inside the walls.
+It also appears that location data has been tracked in the area outside bases - which may show commonly-used exercise routes or patrolled roads.
+Mr Ruser, 20, said he was shocked by how much detail he could see. "You can establish a pattern of life," he said.
+The app is far more popular in the West than elsewhere - which means foreign military bases stand out as isolated "hotspots" in the Middle East.
+Other easily identifiable bases include those used by the US in Syria and Iraq, an RAF base in the Falklands, and one used by French forces in Niger.
+Millions of users track their location data with Strava while exercising, often using a fitness tracker worn on the wrist or a smartphone to automatically upload their location as they jog or cycle.
+In an engineering blog post from November, Strava said the newest version of the map was built from one billion activities - some three trillion points of data, covering 27 billion km (17bn miles) of distance run, jogged, or swum. 
+Strava released a brief statement highlighting that the data used had been anonymised, and "excludes activities that have been marked as private and user-defined privacy zones."
+"We are committed to helping people better understand our settings to give them control over what they share," it said.
+The settings available in Strava's app also allow users to explicitly opt out of data collection for the heatmap - even for activities not marked as private - or to set up "privacy zones" in certain locations.
+However there are now concerns around the security of the collected data, and the possibility for it to identify individual users.
+Mr Ruser, who is studying international security at the Australian National University, said anyone could have spotted the information.
+"I thought the best way to deal with it is to make the vulnerabilities known so they can be fixed," he said.
+"Someone would have noticed it at some point. I just happened to be the person who made the connection."

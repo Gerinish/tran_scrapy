@@ -25,12 +25,12 @@ class BbcbusinessSpider(scrapy.Spider):
                 essay = self.findText(essay,i)
             elif i.name == 'p':
                 essay = self.findText(essay,i)
-            elif i.name == 'hr':
-                if i.next_sibling.name in ['h1','h2']:
-                    essay += '\n'
-                    essay = self.findText(essay, i)
-                else:
-                    break
+            #elif i.name == 'hr':
+             #   if i.next_sibling.name in ['h1','h2','ul','li']:
+             #       essay += '\n'
+             #       essay = self.findText(essay, i)
+             #   else:
+             #       break
             else:
                 continue
         with open('bbcbusiness.txt', 'w',encoding='utf-8',errors='ignore') as f:

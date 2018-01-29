@@ -10,9 +10,9 @@ class CdbusinessSpider(scrapy.Spider):
     def parseAgain(self,response):#找文章
         cd_f = response.text
         cd_soup = BeautifulSoup(cd_f, 'lxml')
-        text_all = cd_soup.find("div", {'class': "lft_art"}).h1.string + '\n'
+        text_all = cd_soup.find("div", {'class': "main_art"}).h1.string + '\n'
         for child in cd_soup.body.find("div", {'id': "Content"}).find_all("p"):
-            text_all += child.string + '\n'
+            text_all = self.findText(text_all,child)
         with open('cdbusiness.txt', 'w',encoding='utf-8',errors='ignore') as f:
             f.write(text_all)
         self.log('Saved file cdbusiness.')
@@ -22,3 +22,15 @@ class CdbusinessSpider(scrapy.Spider):
         cd_st_soup = BeautifulSoup(cd_st,'lxml')
         url = cd_st_soup.find('div',{'class':"tmR"}).div.div.h1.a.get('href')
         yield scrapy.Request(url,callback=self.parseAgain)
+
+    def findText(self,in_txt,in_soup):
+        try:
+            in_txt += '\n' + in_soup
+        except:
+            for x in in_soup.descendants:
+                try:
+                    in_txt += x
+                except:
+                    continue
+            in_txt += '\n'
+        return in_txt

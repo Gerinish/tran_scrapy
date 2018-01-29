@@ -1,38 +1,33 @@
-Coincheck: World's biggest ever digital currency 'theft' - BBC News
-One of Japan's largest digital currency exchanges says it has lost some $534m (£380m) worth of virtual assets in a hacking attack on its network. 
-Coincheck froze deposits and withdrawals for all crypto-currencies except Bitcoin as it assessed its losses in NEM, a lesser-known currency.
-It may be unable to reimburse the funds lost on Friday, a representative told Japanese media.   
-If the theft is confirmed, it will be the largest involving digital currency.
-Another Tokyo exchange, MtGox, collapsed in 2014 after admitting that $400m had been stolen from its network.
-The stolen Coincheck assets were said to be kept in a "hot wallet" - a part of the exchange connected to the internet. That contrasts with a cold wallet, where funds are stored securely offline. 
-Coincheck says it has the digital address of where the assets were sent.
+Ikea founder Ingvar Kamprad dies in Sweden at 91 - BBC News
+The Swedish founder of the Ikea furniture chain, Ingvar Kamprad, has died at the age of 91, the company has announced.
+Mr Kamprad - who pioneered flat-pack furniture - died at his home in Småland, Ikea confirmed in a statement.
+The company said that Mr Kamprad was "one of the greatest entrepreneurs of the 20th century".
+The billionaire, who was born in 1926 in Småland, founded Ikea at the age of 17.
+He used some money his father had given him as a gift for performing well at school despite his dyslexia.
+In the later years of his life, Mr Kamprad faced questions over his past links to fascist groups - something he admitted, but said was a "mistake". 
+In a statement on Sunday, Ikea said that Mr Kamprad had "peacefully passed away at his home".
+"He worked until the very end of his life, staying true to his own motto that most things remain to be done," it added. Mr Kamprad eventually stepped down from the company's board in 2013, at the age of 87. 
+"Ingvar Kamprad was a great entrepreneur of the typical southern Swedish kind - hardworking and stubborn, with a lot of warmth and a playful twinkle in his eye," the company said. 
+His company's designs became popular in part because of their simplicity and value. 
+Mr Kamprad is reported to have come up with the idea of flat-pack furniture after watching an employee remove the legs from a table in order to fit it into a customer's car.
+Furniture designer Jeff Banks said that Mr Kamprad's creations radically changed how people made and designed products for the home.
+"People have tried to reproduce and copy that, but unsuccessfully," he said.
+Mr Banks added that the designs produced and sold through the retailer made good use of recyclable products, adding that Mr Kamprad was "head and shoulders above the rest".
+Mr Kamprad was renowned for his devotion to frugality, reportedly driving an old Volvo and travelling by economy class.
+In a 2016 interview with Swedish television channel TV4, Mr Kamprad said that it was "in the nature of Småland to be thrifty". 
+"If you look at me now, I don't think I'm wearing anything that wasn't bought at a flea market," he said. 
+He told the channel that he built his business on a "local ethos". 
+"We have Småland in the blood, and we know what a krona is - even though it is not as much as it was when we bought candy and went to elementary school," he said, referring to the Swedish currency. 
+People took to social media on Sunday to pay their respects to the "greatest Swedish entrepreneur to have ever lived". 
+Swedish Foreign Minister Margot Wallstrom tweeted her condolences, saying that Mr Kamprad had "put Sweden on the world map".
 
-What do we know about the hack?
-Hackers broke in at 02:57 on Friday (17:57 GMT Thursday), the company said in a statement, but the breach was not discovered until 11:25, nearly eight and a half hours later.  
-Company chief operating officer Yusuke Otsuka said 523m NEMs had been sent from Coincheck's NEM address during the breach.
-"It's worth 58bn yen based on the calculation at the rate when detected," he told reporters at the Tokyo Stock Exchange. 
-Coincheck was still examining how many customers had been affected and trying to establish whether the break-in had been launched from Japan or another country.
-"We know where the funds were sent," Mr Otsuka added. "We are tracing them and if we're able to continue tracking, it may be possible to recover them." 
-Coincheck reported the incident to the police and to Japan's Financial Services Agency.
-
-How damaging is the loss?
-NEM, the 10th-largest crypto-currency by market value, fell 11% over a 24-hour period to 87 cents, as of 18:30, Bloomberg news agency reports.
-Among the other crypto-currencies, Bitcoin dropped 3.4% and Ripple retreated 9.9% on Friday, according to prices seen by the agency.
-More was lost on Friday than in 2014, when MtGox lost what it thought was 850,000 bitcoins. However, MtGox later found 200.000 bitcoins in an old digital wallet.
-"In a worst-case scenario, we may not be able to return clients' assets," an unnamed Coincheck representative was quoted as saying on Saturday by Japan's Kyodo news agency.
-After the collapse of MtGox shook the digital currency world, a licensing system was introduced in Japan to increase oversight of local currency exchanges such as Coincheck.
-"What's the lasting impact? It's hard to tell," Marc Ostwald, global strategist at ADM Investor Services International in London, told Bloomberg.
-"Japan is one of the most pro-crypto trading countries, among the G-20. In Japan they don't really want a wholesale clampdown. So it will be interesting how Japanese regulators respond to this, if they indeed do."
-
-What is Coincheck?
-Founded in 2012, the company is based in Tokyo, where it employed 71 people as of August last year.
-Its headquarters are located in the city's Shibuya district, an area popular with start-ups that was also home to MtGox, Bloomberg reports.
-Last year, Coincheck began running adverts on national television featuring popular local comedian Tetsuro Degawa, the agency adds.
-Kunihiko Sato, a 30-year-old customer from Tokyo, told Kyodo he had deposited about 500,000 yen ($4,600), into his account with the exchange.
-"I never thought this kind of thing would happen with Japan's developed legislation," he said.
-
-How do crypto-currencies work?
-Whereas money is printed by governments or traditional banks, digital currencies are generated  through a complex process known as "mining". Transactions are then monitored by a network of computers across the world using a technology called blockchain.
-There are thousands of them, largely existing online, unlike the notes or coins in your pocket. 
-It may be more useful to think of them as assets, rather than digital cash. The vast majority of Bitcoin holders, for instance, appear to be investors. But the anonymity that crypto-currencies afford has also attracted criminals.
-The value of a crypto-currency is determined by how much people are willing to buy and sell them for.
+Ikea: Key facts
+Ikea has remained privately-owned under a Dutch trust operated by the Kamprad family. Its complex business structure has drawn controversy and the European Commission said last year that it had launched an investigation into Ikea's tax arrangements.
+The European Green Party said that the arrangement had allowed the company to avoid paying some €1bn in tax between 2009 and 2014.
+A spokesman for Dutch-based Inter Ikea, one of the company's two divisions, said that the company had been taxed "in accordance with EU rules".
+In an interview in the 1980s, Mr Kamprad said that his vision for Ikea was that it would be a company that would make life easier for its customers. 
+In more recent years, Mr Kamprad had faced scrutiny over his past links to Nazi groups. 
+The tycoon revealed some elements of his past in a book in 1988, admitting that he was a close friend of the Swedish fascist activist Per Engdahl, and a member of his New Swedish Movement between 1942 and 1945.
+He said that his involvement was youthful "stupidity" and the "greatest mistake" of his life. 
+But a 2011 book by Elisabeth Asbrink alleged details beyond what Mr Kamprad had previously admitted. She wrote that he was an active recruiter for a Swedish Nazi group, and stayed close to sympathisers well after World War Two.
+At the time a spokesman for Mr Kamprad said he had long admitted flirting with fascism, but that there were now "no Nazi-sympathising thoughts in Ingvar's head whatsoever".
