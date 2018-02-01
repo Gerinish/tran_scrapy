@@ -1,27 +1,31 @@
-Fitness tracker Strava lights up military base - BBC News
-Military personnel around the world have been publicly sharing their exercise routes online - including those inside or near military bases.
-Online fitness tracker Strava has published a "heatmap" showing the paths its users log as they run or cycle.
-It appears to show the structure of foreign military bases in countries like Syria and Afghanistan, as soldiers move around inside.
-The US military is examining the heatmap, a spokesman said.
-Air Force Colonel John Thomas, a spokesman for US Central Command, told the Washington Post that the US military was reviewing the implications.
-Strava said it had excluded activities marked as private from the map.
-Users who record their exercise data on Strava have the option of making their movements public or private. Private data, the company said, has never been included.
-The appearance of military bases on the heatmap suggests that large numbers of military personnel across the globe have been publicly sharing their location data.
-The latest version of the map was released in November 2017, but the implications for service personnel were only raised over the weekend.
-Nathan Ruser, an Australian university student who first highlighted the issue, said he came across the map while browsing a cartography blog last week.
-"I just looked at it and thought, 'oh hell, this should not be here - this is not good,'" he told the BBC.
-The location of military bases is generally well-known, both from local knowledge and pre-existing satellite imaging tools like Google Earth. 
-Furthermore, concerns about Strava's heatmap are mainly centred around the fact that it displays the level of activity - shown as more intense light - and the movement of personnel inside the walls.
-It also appears that location data has been tracked in the area outside bases - which may show commonly-used exercise routes or patrolled roads.
-Mr Ruser, 20, said he was shocked by how much detail he could see. "You can establish a pattern of life," he said.
-The app is far more popular in the West than elsewhere - which means foreign military bases stand out as isolated "hotspots" in the Middle East.
-Other easily identifiable bases include those used by the US in Syria and Iraq, an RAF base in the Falklands, and one used by French forces in Niger.
-Millions of users track their location data with Strava while exercising, often using a fitness tracker worn on the wrist or a smartphone to automatically upload their location as they jog or cycle.
-In an engineering blog post from November, Strava said the newest version of the map was built from one billion activities - some three trillion points of data, covering 27 billion km (17bn miles) of distance run, jogged, or swum. 
-Strava released a brief statement highlighting that the data used had been anonymised, and "excludes activities that have been marked as private and user-defined privacy zones."
-"We are committed to helping people better understand our settings to give them control over what they share," it said.
-The settings available in Strava's app also allow users to explicitly opt out of data collection for the heatmap - even for activities not marked as private - or to set up "privacy zones" in certain locations.
-However there are now concerns around the security of the collected data, and the possibility for it to identify individual users.
-Mr Ruser, who is studying international security at the Australian National University, said anyone could have spotted the information.
-"I thought the best way to deal with it is to make the vulnerabilities known so they can be fixed," he said.
-"Someone would have noticed it at some point. I just happened to be the person who made the connection."
+Samsung enters crypto-currency chips business - BBC News
+Samsung Electronics has revealed it is making chips designed specifically to harvest crypto-currency coins.
+The firm made the disclosure in its latest earnings report, where it said the activity should boost its profits.
+The report also confirmed that the South Korean company overtook Intel to become the biggest chipmaker last year.
+And it forecast strong demand for its forthcoming Galaxy S9 smartphone, which is due to be revealed on 25 February.
+Samsung Electronic's fourth quarter net profit totalled 12.3tn won ($11.5bn; £8.1bn), which was roughly in line with analysts' expectations.
+But its shares jumped nearly 9% after the company revealed that it was splitting its stock 50-to-1, which should encourage trade in the asset.
+
+Asic's advantage
+For now, Samsung is providing little detail about its new crypto-currency business.
+"Samsung's foundry business is currently engaged in the manufacturing of crypto-currency mining chips," it said in a statement given to the BBC.
+"However we are unable to disclose further details regarding our customers."
+Mining, in this context, refers to solving complex mathematical problems as a means to verify crypto-currency transactions - a task for which the owners of the computers involved are rewarded with new digital tokens or "coins".
+The Bell, a Korean-language newspaper, has reported that the processors involved are Asic (application-specific integrated circuit) chips.
+These are chips that are custom-designed to carry out a single task - in this case "mining" Bitcoin or another specific crypto-currency - but not general computing operations.
+Until 2013, Asic chips were more commonly associated with the TV industry.
+But that year, a New York-based entrepreneur began selling processors custom-designed for Bitcoin mining, which promised better performance and lower energy use than GPU (graphics processing unit) chips, which are still more commonly associated with the task.
+In recent months, a shortage of high-end GPU cards has pushed up their prices, making the rival Asic technology even more appealing.
+According to The Bell, Samsung completed development of its own Bitcoin-related Asic chip last year and began mass production earlier this month.
+Until now, Taiwan's TSMC was the only other major processor-manufacturer engaged in the activity.
+One expert said Samsung's move represented a bet that Bitcoin's rise in value does not represent a bubble that is about to burst.
+"We don't know how low Samsung can sell its chip for and still be profitable," said Garrick Hileman, a crypto-currency researcher from the University of Cambridge.
+"But if Bitcoin's price were to collapse and enter a bear market like in 2014 to 2015, one would wonder if Samsung would stay with this line of business through such a turn."
+
+Taking top spot
+Samsung's latest venture coincided with news that its semiconductors division logged 74.3tn won ($69.6bn; £49.1bn) of sales last year.
+That compares with a figure of $62.8bn reported by Intel last week.
+It marks the first time the US firm has not occupied the top spot since 1992, according to the Bloomberg news agency.
+Much of Samsung's success is down to the popularity of its memory chips - it highlighted demand from the computer server and mobile device storage markets in particular.
+Intel is hoping to increase its own market share in the sector by offering a new proprietary memory technology called 3D Xpoint, which it began selling last year.
+However, it risks being distracted by the need to redesign its processor chips after a flaw with their current architecture was recently revealed.
