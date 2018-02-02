@@ -35,18 +35,6 @@ class CnnmoneySpider(scrapy.Spider):
                         except:
                             continue
                     text_all += '\n'
-        text_all = self.checkText(text_all)
         with open('cnnmoney.txt', 'w',encoding='utf-8',errors='ignore') as f:
             f.write(text_all)
         self.log('Saved file cnnmoney.')
-
-    def checkText(self,in_text):
-        out_text = ''
-        li = in_text.split('\n')
-        for i in range(len(li)):
-            if li[i][-1] not in '.,?!\"':#句末无此符号可视为标题
-                li.insert(i,'\n')#插入换行符
-                if not li[i+1]:#若为最后一行且标题样式
-                    li.pop(i)#删除此行
-            out_text += li[i]
-        return out_text

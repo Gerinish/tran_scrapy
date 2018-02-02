@@ -1,29 +1,5 @@
-Facebook tweaks prompt fall in user time - BBC News
-Facebook's overhaul of its News Feed has reduced the amount of time people spend on the site and contributed to a quarterly decline in users in the US and Canada, the social network said. 
-The firm has been making the changes amid increasing scrutiny of its ad business, role in political campaigns and broader social impact.
-Boss Mark Zuckerberg said the tweaks would help the firm in the long-term.
-He called 2017 "a strong year ... but ... also a hard one".
-The comments came as the firm released its latest results.  
-Facebook's revenue soared 47% last year to more than $40bn (£28.2bn), while profits jumped 56% to nearly $16bn.
-The gains came despite an unexpected $2.3bn tax payment due to the new US tax law, which included a one-off tax on overseas profits.
-But Mr Zuckerberg said the firm takes "very seriously" ongoing debate about the utility of social media sites and wants to ensure time spent on the network is "more meaningful".
-"That's what people want," he said.
-The company is prioritising posts from friends and family to boost interaction between users, while reducing the prominence of content from businesses, media and other companies.
-Mr Zuckerberg said the actions so far, which include showing fewer viral videos, have reduced time spent on Facebook by about 5% or roughly 50 million hours a day.
-User growth also cooled slightly from its last quarterly update.
-The firm reported an average of 1.4 billion daily active users and about 2.13 billion monthly active users in December. 
-Those figures were 14% higher than in December 2016, but had increased 16% year-on-year in September.
-In the US and Canada - a region that brings in an outsize share of ad revenue - the number of daily users shrank by about 700,000 to 184 million compared with the previous quarter.
-
-Analysis: By Dave Lee, BBC North America technology reporter, San Francisco 
-There are politicians, academics and even former executives lining up to tell Facebook what's wrong with it, but Mark Zuckerberg has only ever trusted his own data. 
-And so these tweaks to the News Feed, above all else, are a result of what Facebook's engineers have seen for themselves.
-Mr Zuckerberg's (pretty convincing) argument is that by not fixing the News Feed, the long-term health of the company could be in jeopardy - not because of Russian propaganda or fake news, but because it just won't be fun or useful to use.  
-The 33-year-old is again warning investors that it's going to take time to heal the News Feed, making it a better place for you and for me - and then eventually, he hopes, advertisers and businesses.  
-What we need to look out for is investors' patience with him. Over the past two years Facebook has consistently beat expectations, and it did again today, even with the caveats. Will Wall Street cut him some slack as a result? 
-Daniel Ives, an analyst at GBH Insights, said the firm's financial results were "robust" and described Facebook's strategy as 'the right medicine at the right time".
-"We believe this strategy will drive higher advertising pricing monetisation trends in the long-term for Facebook and was a move Zuckerberg & Co needed to make," he said.
-The company reported fourth quarter revenue of nearly $13bn, up 47% from the same period in 2016. Profits were $4.3bn, up 20% year-on-year, after the tax hit.
-Facebook said it expects to pay an effective tax rate of 23% in 2017, slightly higher than last year.
-Though the US tax overhaul slashed the corporate rate, it also imposed a one-time mandatory tax on overseas profits.
-Facebook shares initially fell by more than 4% in after-hours trade, but rebounded quickly.
+US jobs and wages rise in January - BBC News
+The US labour market barrelled forward in January, as employers added more jobs than expected and wage growth accelerated.
+American payrolls swelled by 200,000 last month, driven by hiring in construction, food services and health care.
+The average hourly wage for private sector workers crept up 2.9% compared to January 2017.
+The unemployment rate held steady at 4.1%.

@@ -1,20 +1,35 @@
-EBay is dumping PayPal for a Dutch rival
-EBay and PayPal's divorce just got messier.
-  EBay (EBAY), one of the world's biggest online marketplaces, announced Wednesday that it's dropping PayPal as its main partner for processing payments in favor of Dutch company Adyen. 
-   The news prompted investors to offload PayPal (PYPL) stock, which fell more than 11% in after-hours trading. 
-  The two U.S. tech companies have a complicated history. 
-  In 2002, eBay paid $1.5 billion to buy PayPal, an online payments company whose founders include Silicon Valley heavyweights Elon Musk and Peter Thiel. 
-   It proved to be a very successful investment. When eBay spun off PayPal in 2015 -- something investors and analysts had urged it to do -- the payments company's market value was close to $50 billion. It's now above $100 billion. 
-  Related: PayPal introduces a new cash back credit card 
-  Despite the split, the two companies' businesses have remained tightly linked. PayPal continued to process payments for eBay and is the preferred payment method for most of the buyers and sellers on the site. 
-  But eBay is now moving to cut those ties. The ecommerce company plans to take more direct control of payments on its site with help from Adyen. 
-  EBay said the benefits of the changes would include lower costs for sellers and more payment options for buyers. 
-  The shift will start gradually in North America later this year and eBay expects most marketplace customers around the world to be using the new system in 2021. 
-  PayPal spokeswoman Amanda Miller said the company will "continue to provide a comprehensive payments solution to eBay through July 2020." It will also remain a payment option at checkout for eBay customers until July 2023. 
-  Related: Amazon's bigger rival in India is bulking up 
-  PayPal's business with eBay is big and still growing: it was up 10% in the fourth quarter of 2017. But that's slower growth than other parts of PayPal's operations, which means that eBay makes up a decreasing portion of the tens of billions of dollars of payments the company processes. 
-  EBay accounted for 13% of the payments PayPal handled in the fourth quarter, down from 16% in the same period a year earlier, PayPal said. 
-  Adyen said it's "thrilled" to be getting its hands on the eBay payments business. 
-  "We look forward to powering transactions on eBay, starting in North America, and supporting their continued global growth," the Dutch company said in a statement. 
-  Based in Amsterdam, Adyen already works with other big tech companies including Uber and Netflix (NFLX). It says it handles more than 200 different payment methods and over 150 currencies. 
+Is the U.S. waging a 'cold war' to weaken the dollar?
+The dollar is at its weakest level in years against other major currencies.
+  Experts say the drop is being driven, at least in part, by the U.S. government. And some suggest it's a deliberate campaign aimed at boosting the American economy at the expense of major trading partners like Europe and Japan. 
+   The Trump administration is engaged in "a cold currency war -- and it's winning," Joachim Fels, an economist at investment firm Pimco, said this week. 
+  Rather than an open conflict, which would involve direct intervention in currency markets, the hostilities come in the form of words and "covert" actions, he wrote in a blog post. 
+  'An implicit but very clear signal' 
+   The American economy is growing healthily, and the Federal Reserve is on a path of raising interest rates. That would typically be expected to support a strengthening dollar. 
+  But some of the comments and actions by the U.S. government are encouraging investors to send the dollar lower. It has shed almost 13% versus other leading currencies since the start of last year. 
+  Fels points to the Trump administration's moves to slash taxes and boost spending, which he says are coming at "the wrong time" -- namely when the economy is already in good shape. The measures will pile on more government debt, making investors less eager to own dollar assets, like U.S. Treasury bonds. 
+  Policies like that "are sending an implicit but very clear signal to markets: A weaker dollar is the goal," Fels wrote. "Markets have understood the signal." 
+  Related: Republican plans will cost trillions. Can they pay for them? 
+  Comments by Treasury Secretary Steve Mnuchin last week suggesting that "a weaker dollar is good for us as it relates to trade and opportunities" have added to the bearish sentiment. Mnuchin later tried to walk back the remarks, saying they were taken out of context. And President Trump insisted that he wants a strong dollar. 
+  But Arthur Kroeber, a senior analyst at research firm Gavekal, said that "currency traders should be skeptical" about Trump's comments. 
+  In a note to clients last week, Kroeber pointed out that Trump wants to reduce U.S. trade deficits with other countries. The dollar would have to drop even further to significantly cut the current account deficit, a broad measure of foreign trade, he added. 
+  "It will now be very difficult for Washington to put the weak dollar genie back in the bottle," Viraj Patel, a currency strategist at investment bank ING, wrote in a note this week. 
+  He said the "unpredictability" of Trump policies, particularly on trade, are also contributing to the dollar's slide. 
+  'Heightened uncertainty' 
+  Trump himself repeatedly complained last year that the dollar was too strong, drawing criticism from some experts who noted a long-standing government policy of not talking the U.S. currency down. 
+  Those concerns flared again after Mnuchin's comments. 
+  "Trump currency war increases risks for Asia," Japan's Nikkei Asian Review warned in a column this week. 
+  Tom Holland, another analyst at Gavekal, said the U.S. administration's "eagerness to talk the currency down" made it likely the dollar would continue to weaken against other major currencies. 
+  "Markets could be heading towards a period of heightened uncertainty and volatility, with politicians and central bankers in Europe and Asia also attempting to steer their currencies lower," he wrote in a note to clients last week. 
+  Related: IMF: Trump tax cuts will boost global economy 
+  The advantage of a weaker currency is it makes a country's exports cheaper, which tends to increase demand. 
+  The dollar also isn't getting as much support from the Federal Reserve as it might in a strengthening economy. The U.S. central bank's approach to raising rates has been more gradual than some investors anticipated. 
+  'No one wants a currency war' 
+  But not all market watchers buy the idea of an intentional effort by the U.S. government to coax the dollar lower. 
+  They point out that momentum in European economies like Germany and France has prompted some investors to flock to the euro instead of the dollar. 
+  They're betting that the European Central Bank will wind down its huge bond-buying stimulus program sooner than expected. That would drive up European bond yields and make the euro even more appealing. 
+  Related: Europe's economy grew faster than the U.S. last year 
+  What's more, the Trump administration could get nervous if the dollar falls much further, according to Greg McKenna, a strategist at currency trading firm AxiTrader. 
+  If it gets too weak, investors will demand higher interest rates to hold Treasury bonds. That would make the U.S. national debt increase even faster. 
+  McKenna also said that since the global financial crisis, major central banks have largely ditched "beggar thy neighbor" policies that make trading partners worse off -- and instead are more likely to try to work together. 
+  "No one wants a currency war," he said. 
     

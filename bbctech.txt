@@ -1,31 +1,23 @@
-Samsung enters crypto-currency chips business - BBC News
-Samsung Electronics has revealed it is making chips designed specifically to harvest crypto-currency coins.
-The firm made the disclosure in its latest earnings report, where it said the activity should boost its profits.
-The report also confirmed that the South Korean company overtook Intel to become the biggest chipmaker last year.
-And it forecast strong demand for its forthcoming Galaxy S9 smartphone, which is due to be revealed on 25 February.
-Samsung Electronic's fourth quarter net profit totalled 12.3tn won ($11.5bn; £8.1bn), which was roughly in line with analysts' expectations.
-But its shares jumped nearly 9% after the company revealed that it was splitting its stock 50-to-1, which should encourage trade in the asset.
+'Egregious' YouTubers to face consequences - BBC News
+YouTube says it is developing new policies to deal with video-makers who damage the reputation of the website.
+Chief executive Susan Wojcicki said "egregious" behaviour by video bloggers caused "significant harm" to the entire community of video-makers.
+The site has been under closer scrutiny after video blogger Logan Paul made a video which showed a dead body in a "suicide forest". 
+Many video-makers have been frustrated with YouTube's policies.
+In a bid to stop advertisements appearing next to controversial content, YouTube has been using algorithms to identify content that it judges not to be "advertiser-friendly". 
+However, many of the platform's biggest stars have complained that their videos have been incorrectly marked as unsuitable for advertising.
+YouTube creators have coined the words "demonetisation" and "adpocalypse" to describe the problem.
+The platform has also been criticised for what video-makers perceive as a lack of transparency about its policies.
+In a blog post, Ms Wojcicki said she wanted to "strengthen the trust that our community places in YouTube through open and frequent communication".
+Addressing the so-called adpocalypse, she said the company was "working on a more accurate solution" that would involve more human moderators to review videos.
+"We're also currently developing policies that would lead to consequences if a creator does something egregious that causes significant harm to our community as a whole," she added.
+When Mr Paul uploaded his video recorded in the suicide forest, YouTube removed him from the Google Preferred programme, which sells premium advertising for the website's top 5% of video-makers.
+Mr Paul has since apologised for uploading the video.
 
-Asic's advantage
-For now, Samsung is providing little detail about its new crypto-currency business.
-"Samsung's foundry business is currently engaged in the manufacturing of crypto-currency mining chips," it said in a statement given to the BBC.
-"However we are unable to disclose further details regarding our customers."
-Mining, in this context, refers to solving complex mathematical problems as a means to verify crypto-currency transactions - a task for which the owners of the computers involved are rewarded with new digital tokens or "coins".
-The Bell, a Korean-language newspaper, has reported that the processors involved are Asic (application-specific integrated circuit) chips.
-These are chips that are custom-designed to carry out a single task - in this case "mining" Bitcoin or another specific crypto-currency - but not general computing operations.
-Until 2013, Asic chips were more commonly associated with the TV industry.
-But that year, a New York-based entrepreneur began selling processors custom-designed for Bitcoin mining, which promised better performance and lower energy use than GPU (graphics processing unit) chips, which are still more commonly associated with the task.
-In recent months, a shortage of high-end GPU cards has pushed up their prices, making the rival Asic technology even more appealing.
-According to The Bell, Samsung completed development of its own Bitcoin-related Asic chip last year and began mass production earlier this month.
-Until now, Taiwan's TSMC was the only other major processor-manufacturer engaged in the activity.
-One expert said Samsung's move represented a bet that Bitcoin's rise in value does not represent a bubble that is about to burst.
-"We don't know how low Samsung can sell its chip for and still be profitable," said Garrick Hileman, a crypto-currency researcher from the University of Cambridge.
-"But if Bitcoin's price were to collapse and enter a bear market like in 2014 to 2015, one would wonder if Samsung would stay with this line of business through such a turn."
-
-Taking top spot
-Samsung's latest venture coincided with news that its semiconductors division logged 74.3tn won ($69.6bn; £49.1bn) of sales last year.
-That compares with a figure of $62.8bn reported by Intel last week.
-It marks the first time the US firm has not occupied the top spot since 1992, according to the Bloomberg news agency.
-Much of Samsung's success is down to the popularity of its memory chips - it highlighted demand from the computer server and mobile device storage markets in particular.
-Intel is hoping to increase its own market share in the sector by offering a new proprietary memory technology called 3D Xpoint, which it began selling last year.
-However, it risks being distracted by the need to redesign its processor chips after a flaw with their current architecture was recently revealed.
+Reputation
+The company says it wants to have clear policies for content creators to follow.
+"While these instances are rare, they can damage the reputation and revenue of your fellow creators," said Ms Wojcicki.
+"We want to make sure we have policies in place that allow us to respond appropriately."
+One of the platform's best-known stars, Hank Green, welcomed the blog post.
+"I am often critical of YouTube, but I also have a lot of sympathy for the tightropes they must often walk," he said.
+"Do I think they give in to advertisers too much? Yep! But to me this statement shows a very good and deep understanding of the issues the platform (and its creators) face."
+But others urged YouTube to enact its promises more quickly.
